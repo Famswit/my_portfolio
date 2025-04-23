@@ -205,7 +205,7 @@ export default function Skills() {
               viewport={{ once: true, amount: 0.3 }}
               transition={{ duration: 0.8 }}>
                 <Typography variant="body1" paragraph sx={{ mt: 3 }}>
-                  I'm committed to continuous learning and staying updated with
+                  I am committed to continuous learning and staying updated with
                   the latest web development trends and best practices.
                 </Typography>
               </motion.div>

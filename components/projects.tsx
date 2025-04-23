@@ -1,6 +1,6 @@
 "use client"
 import { useState } from "react"
-import { Box, Container, Typography, Card, CardContent, CardMedia, CardActions, Button, Chip } from "@mui/material"
+import { Box, Container, Typography, Card, CardContent, CardMedia, Button, Chip } from "@mui/material"
 import GitHubIcon from "@mui/icons-material/GitHub"
 import LaunchIcon from "@mui/icons-material/Launch"
 import { motion } from "framer-motion"

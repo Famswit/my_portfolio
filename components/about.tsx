@@ -1,5 +1,5 @@
 "use client"
-import { Box, Container, Typography, Avatar } from "@mui/material"
+import { Box, Container, Typography } from "@mui/material"
 import { motion } from "framer-motion"
 
 export default function About() {
@@ -92,13 +92,13 @@ export default function About() {
                 Who am I?
               </Typography>
               <Typography paragraph>
-                I'm a passionate web developer with expertise in creating modern, responsive websites and applications.
+                I am a passionate web developer with expertise in creating modern, responsive websites and applications.
                 With a strong foundation in both front-end and Graphics Design, I bring ideas to life through
                 clean, efficient code.
               </Typography>
               <Typography paragraph>
-                My journey in web development began 5 years ago, and since then, I've worked on numerous projects
-                ranging from small business websites to complex web applications. I'm constantly learning and adapting
+                My journey in web development began 5 years ago, and since then, I have worked on numerous projects
+                ranging from small business websites to complex web applications. I am constantly learning and adapting
                 to new technologies to stay at the forefront of web development.
               </Typography>
               <Typography variant="h5" gutterBottom sx={{ mt: 3 }}>

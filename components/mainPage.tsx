@@ -78,7 +78,7 @@ export default function MainPage() {
                 variant="h6"
                 sx={{ mr: "20px", fontSize: { xs: "1rem", md: "1.25rem" } }}
               >
-                Hi, I'm
+                Hi, I am
               </Typography>
               <Typography
                 variant="h3"
