@@ -15,7 +15,7 @@ export default function Footer() {
     <Box
       component="footer"
       sx={{
-        bgcolor: mode === "light" ? "#151C39" : "#0A0A0A",
+        bgcolor: mode === "light" ? "#1b5e20" : "#0A0A0A",
         color: "white",
         py: 8,
         position: "relative",
@@ -148,7 +148,7 @@ export default function Footer() {
                     transition: "all 0.3s ease",
                     "&:hover": {
                       opacity: 1,
-                      color: "primary.main",
+                      color: "secondary.main",
                     },
                   }}
                 >
