@@ -5,6 +5,7 @@ import "./globals.css"
 import ThemeRegistry from "@/components/theme-registry"
 import Navbar from "@/components/navbar"
 import Footer from "@/components/footer"
+import WhatsAppSupport from "@/components/whatsappSupport"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -24,6 +25,7 @@ export default function RootLayout({
         <ThemeRegistry>
           <Navbar />
           {children}
+          <WhatsAppSupport />
           <Footer />
         </ThemeRegistry>
       </body>
